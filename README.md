@@ -1,4 +1,12 @@
-## Hi there 👋
+## About me
+
+I'm a researcher and engineer with interests in
+* reverse engineering
+* binary exploitation
+* formal verification
+* artificial intelligence
+
+Having spent a large part of my journey quiet, I'm hoping to share more with the community. Hopefully, I get some cool stuff done :)
 
 <!--
 **fuzzylogit/fuzzylogit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
